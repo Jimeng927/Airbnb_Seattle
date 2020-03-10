@@ -40,7 +40,7 @@ For this project, I was using the Airbnb listing data available in Seattle area 
 
 There is one `.ipynb` file. The file is used to wrangle data, analyze data and share the results. Markdown cells were used to assist in walking through the thought process for individual steps.
 
-<a name="red"></a>
+<a name="res"></a>
 ## 4. Results
 
 There are two parts of the results: **descriptive statistics** and **predictive statistics**. Below are some of the key results from each part:
