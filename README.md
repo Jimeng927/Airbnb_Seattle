@@ -43,6 +43,8 @@ There is one `.ipynb` file. The file is used to wrangle data, analyze data and s
 <a name="res"></a>
 ## 4. Results
 
+I communicated my results via Medium blog [here](https://medium.com/@jimeng.jiang/what-pricing-stories-does-airbnb-data-tell-us-562053e5d541).
+
 There are two parts of the results: **descriptive statistics** and **predictive statistics**. Below are some of the key results from each part:
 
 **descriptive statistics:**
